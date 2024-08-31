@@ -7,7 +7,7 @@ All my coding projects from the boot camp
 3. Dashboard looker
 4. linear regression model learning
 
-## enjoy :D
+enjoy :D
 
 ## Contact me
 contact knpkanapat@gmail.com
