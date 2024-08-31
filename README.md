@@ -8,3 +8,6 @@ All my coding projects from the boot camp
 4. linear regression model learning
 
 ## enjoy :D
+
+## Contact me
+contact knpkanapat@gmail.com
